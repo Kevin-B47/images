@@ -1,4 +1,5 @@
 var exec = require('child_process').exec;
+const fs = require('fs');
 
 const logDir = 'server-logs';
 
